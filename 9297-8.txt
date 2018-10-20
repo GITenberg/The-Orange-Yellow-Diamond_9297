@@ -11,9 +11,12 @@ Title: The Orange-Yellow Diamond
 Author: J. S. Fletcher
 
 Posting Date: August 31, 2012 [EBook #9297]
+
 Release Date: November, 2005
+
 First Posted: September 17, 2003
-Last Updated: December 21, 2004
+
+[Last updated: February 16, 2015]
 
 Language: English
 
@@ -56,44 +59,82 @@ Distributed Proofreaders.
 CONTENTS
 
       I THE PRETTY PAWNBROKER
-     II MRS. GOLDMARK'S EATING-HOUSE
-    III THE DEAD MAN
-     IV THE PLATINUM SOLITAIRE
+
+	  II MRS. GOLDMARK'S EATING-HOUSE
+
+	  III THE DEAD MAN
+
+	  IV THE PLATINUM SOLITAIRE
+
       V THE TWO LETTERS
-     VI THE SPANISH MANUSCRIPT
-    VII THE MEMBER OF PARLIAMENT
-   VIII THE INQUEST
-     IX WHOSE WERE THOSE RINGS?
+
+	  VI THE SPANISH MANUSCRIPT
+
+	  VII THE MEMBER OF PARLIAMENT
+
+	  VIII THE INQUEST
+
+	  IX WHOSE WERE THOSE RINGS?
+
       X MELKY INTERVENES
-     XI THE BACK DOOR
-    XII THE FRIEND FROM PEEBLES
-   XIII THE CALL FOR HELP
-    XIV THE PRIVATE LABORATORY
-     XV CONFERENCE
-    XVI THE DETECTIVE CALLS
-   XVII WHAT THE LAMPS SHONE ON
-  XVIII MR. STUYVESANT GUYLER
-    XIX PURDIE STANDS FIRM
-     XX THE PARSLETT AFFAIR
-    XXI WHAT MANNER OF DEATH?
-   XXII MR. KILLICK GOES BACK
-  XXIII MR. KILLICK'S OPINION
-   XXIV THE ORANGE-YELLOW DIAMOND
-    XXV THE DEAD MAN'S PROPERTY
-   XXVI THE RAT
-  XXVII THE EMPTY HOUSE
- XXVIII THE £500 BANK NOTE
-   XXIX MR. MORI YADA
-    XXX THE MORTUARY
-   XXXI THE MIRANDOLET THEORY
-  XXXII ONE O'CLOCK MIDNIGHT
- XXXIII SECRET WORK
-  XXXIV BAFFLED
-   XXXV YADA TAKES CHARGE
-  XXXVI PILMANSEY'S TEA ROOMS
- XXXVII CHANG LI
-XXXVIII THE JEW AND THE JAP
-  XXXIX THE DIAMOND NECKLACE
+
+	  XI THE BACK DOOR
+
+	  XII THE FRIEND FROM PEEBLES
+
+	  XIII THE CALL FOR HELP
+
+	  XIV THE PRIVATE LABORATORY
+
+	  XV CONFERENCE
+
+	  XVI THE DETECTIVE CALLS
+
+	  XVII WHAT THE LAMPS SHONE ON
+
+	  XVIII MR. STUYVESANT GUYLER
+
+	  XIX PURDIE STANDS FIRM
+
+	  XX THE PARSLETT AFFAIR
+
+	  XXI WHAT MANNER OF DEATH?
+
+	  XXII MR. KILLICK GOES BACK
+
+	  XXIII MR. KILLICK'S OPINION
+
+	  XXIV THE ORANGE-YELLOW DIAMOND
+
+	  XXV THE DEAD MAN'S PROPERTY
+
+	  XXVI THE RAT
+
+	  XXVII THE EMPTY HOUSE
+
+	  XXVIII THE £500 BANK NOTE
+
+	  XXIX MR. MORI YADA
+
+	  XXX THE MORTUARY
+
+	  XXXI THE MIRANDOLET THEORY
+
+	  XXXII ONE O'CLOCK MIDNIGHT
+
+	  XXXIII SECRET WORK
+
+	  XXXIV BAFFLED
+
+	  XXXV YADA TAKES CHARGE
+
+	  XXXVI PILMANSEY'S TEA ROOMS
+
+	  XXXVII CHANG LI
+
+	  XXXVIII THE JEW AND THE JAP
+
+	  XXXIX THE DIAMOND NECKLACE
 
 
 THE ORANGE-YELLOW DIAMOND
@@ -483,7 +524,7 @@ watch for worlds."
 "Well, if you don't, you don't," remarked Melky. "And as to wanting to
 buy--that's my trade. I ain't no reg'lar business--I buy and sell,
 anything that comes handy, in the gold and silver line. And as you
-ain't going to part with that ticker on no consideration, I'll tell you
+ain't going to part with that ticket on no consideration, I'll tell you
 what it's worth, old as it is. Fifteen quid!"
 
 "That's worth knowing, any way," said Lauriston. "I shall always have
@@ -6884,7 +6925,7 @@ watched for an hour--it was no good."
 the alley and gone out at the other end."
 
 "No!" remarked Lauriston. "At least, not according to Guyler. Guyler
-says it was a long, narrow alley--Purvis could have reached one end by
+says it was a long, narrow alley--Purvis couldn't have reached one end by
 the time he'd reached the other. He says--Guyler--that on each side of
 that alley there are suites of offices--he reckoned there were a few
 hundred separate offices in the lot, and that it would take him a week
@@ -8512,7 +8553,7 @@ you'd better call again in a few hours."
 "Do you mean to tell me he's been here--like that--several days?"
 demanded the Inspector.
 
-"The young man with the tea-pot grinned again.
+The young man with the tea-pot grinned again.
 
 "He's never been at a class at the medical school since the 17th," he
 announced. "I know that--he's in some classes with me. He's been
@@ -8700,7 +8741,7 @@ door when he and his captive had got inside.
 "Now, mister!" he said, "you're as safe here as you could be in any
 spot in the wide world. Let's get to business--and let's understand
 each other. You want that cheque turned into cash--you want to get out
-of London tonight? All right--then hand over your check and keep quiet
+of London tonight? All right--then hand over your cheque and keep quiet
 till I come back. Is there anything else now--any bit of luggage you
 want?"
 
@@ -8867,7 +8908,7 @@ had happened at Multenius's--later in the evening he heard definitely
 that the old man had been assaulted under circumstances which pointed
 to murder for the sake of robbery. And then he, Parslett, now put two
 and two together--and had fixed on Chen Li as the culprit. And now--how
-much, was Chen Li going to pay for silence?
+much was Chen Li going to pay for silence?
 
 According to Yada, Chen Li had had little to say--his chief anxiety,
 indeed, had been to find out what the man wanted. Parslett was definite
